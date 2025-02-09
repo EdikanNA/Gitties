@@ -4,4 +4,9 @@ background-color: grey;
 
 p {
 color: green;
+font-size: 20px;
+}
+
+p:hover{
+color: RED;
 }
